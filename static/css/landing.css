@@ -42,7 +42,7 @@
 /* Heading */
 .hero-v2-title {
     font-family: var(--font-display);
-    font-size: clamp(2.5rem, 6vw, 4rem);
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
     line-height: 1.15;
     letter-spacing: -0.02em;
     color: var(--ink);
@@ -149,7 +149,7 @@
 }
 
 .mock-stat-value {
-    font-size: 1.6rem;
+    font-size: 1.85rem;
     font-weight: 600;
     color: var(--ink);
     line-height: 1.2;
@@ -189,7 +189,7 @@
 }
 
 .mock-cat-track {
-    height: 10px;
+    height: 12px;
     background: var(--border-soft);
     border-radius: 999px;
     overflow: hidden;
@@ -200,9 +200,9 @@
     border-radius: 999px;
 }
 
-.mock-cat-bar--orange { background: #e8a838; }
-.mock-cat-bar--blue   { background: #4a90c4; }
-.mock-cat-bar--purple { background: #8b6bb1; }
+.mock-cat-bar--orange { background: #e0a020; }
+.mock-cat-bar--blue   { background: #4a9ee8; }
+.mock-cat-bar--purple { background: #7855c8; }
 
 /* ------------------------------------------------------------------ */
 /* Demo modal                                                          */
